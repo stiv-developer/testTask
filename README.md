@@ -12,7 +12,7 @@ Este proyecto es una API REST para gestionar tareas, creada con **Node.js**, **E
 1. Clona el repositorio
 
    ```console
-   git clone 
+   git clone https://github.com/stiv-developer/testTask.git
    ```
 
 2. Ir al directorio del proyecto
